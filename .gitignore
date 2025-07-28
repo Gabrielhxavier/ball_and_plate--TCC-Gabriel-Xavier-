@@ -21,3 +21,11 @@ pyvenv.cfg
 *.hex
 *.elf
 *.bin
+
+# Ambientes virtuais
+env/
+venv/
+Lib/
+Include/
+Scripts/
+pyvenv.cfg
