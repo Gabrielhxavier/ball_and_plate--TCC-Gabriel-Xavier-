@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Ambientes virtuais
+env/
+venv/
+Lib/
+Include/
+pyvenv.cfg
+
+# IDEs e editores
+.vscode/
+*.swp
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Compilados do Arduino (caso use)
+*.hex
+*.elf
+*.bin
