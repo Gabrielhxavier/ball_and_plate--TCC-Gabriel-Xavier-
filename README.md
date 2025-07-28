@@ -8,6 +8,7 @@ Este repositório contém os códigos desenvolvidos para o Trabalho de Conclusã
 - `src/controle_tradicional/` — Códigos de controle do sistema utilizando a tela resistiva.
 - `src/controle_CV/` — Códigos de controle do sistema utilizando Visão Computacional.
 - `Resultados` — Contém os vídeos e fotos dos resultados dos dois métodos.
+- `.gitignore` — Contém os arquivos temporários que devem ser ignorados.
 - `README.md` — Este arquivo.
 
 
